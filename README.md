@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
-- Live Site URL: [Visit Site](https://your-live-site-url.com)
+- Solution URL: [Github Repository]([https://your-solution-url.com](https://github.com/kawsarahmed24/blog-preview-card))
+- Live Site URL: [Visit Site]([https://your-live-site-url.com](https://kawsarahmed24.github.io/blog-preview-card/))
 
 ## My process
 
@@ -49,3 +49,4 @@ Learned about css flexbox and more practice on git and github.
 ## Author
 
 - Name: __kawsar Ahmed__
+- Email: [kawsarx300@gmail.com](kawsarx300@gmail.com)
